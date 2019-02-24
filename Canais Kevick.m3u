@@ -1,1 +1,895 @@
-TESTE
+#EXTM3U
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura HD" tvg-logo="https://s8.postimg.cc/h8yd1l8ud/1516308019_b2a8d0b8e6fe09389433405f664918e873391387.jpg" group-title="Canais abertos",Futura HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5335
+#EXTINF:-1 tvg-id="" tvg-name="Globo Brasília HD" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo Brasília HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/12046
+#EXTINF:-1 tvg-id="Globo Minas Gerais" tvg-name="Globo MG HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo MG HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/13175
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste HD" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo Nordeste HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5313
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ HD" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",GLOBO RJ HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5310
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo SP HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5306
+#EXTINF:-1 tvg-id="TV Anhanguera" tvg-name="Globo TV Anhanguera HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo TV Anhanguera HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/15386
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS Porto Alegre" tvg-logo="https://s8.postimg.cc/5juddncqt/1516308804_6ce4ce15aa7de400356094d5545dc1a7a79be47f.jpg" group-title="Canais abertos",Globo RBS Porto Alegre
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5312
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",GLOBO RJ
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5311
+#EXTINF:-1 tvg-id="" tvg-name="Globo RN" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo RN
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5308
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo SP
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5307
+#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Belem" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo Tv Belem
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5304
+#EXTINF:-1 tvg-id="Globo EPTV Campinas" tvg-name="Globo EPTV Campinas" tvg-logo="https://s8.postimg.cc/572z7gf1h/1516308922_f57e4322f19c76069dedcb4ecd78eaffb11a7030.jpg" group-title="Canais abertos",Globo EPTV Campinas
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5326
+#EXTINF:-1 tvg-id="Globo EPTV Ribeirão Preto" tvg-name="Globo EPTV Ribeirão Preto" tvg-logo="https://s8.postimg.cc/572z7gf1h/1516308922_f57e4322f19c76069dedcb4ecd78eaffb11a7030.jpg" group-title="Canais abertos",Globo EPTV Ribeirão Preto
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5323
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV São Carlos" tvg-logo="https://s8.postimg.cc/572z7gf1h/1516308922_f57e4322f19c76069dedcb4ecd78eaffb11a7030.jpg" group-title="Canais abertos",Globo EPTV São Carlos
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5322
+#EXTINF:-1 tvg-id="GLOBO INTERNACIONAL*" tvg-name="Globo Internacional" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo Internacional
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5321
+#EXTINF:-1 tvg-id="Globo Minas Gerais" tvg-name="Globo MG" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo MG
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5320
+#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Tem Sorocaba" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo Tv Tem Sorocaba
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5301
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tribuna Santos" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo TV Tribuna Santos
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23588
+#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Vanguarda S.J dos Campos" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo Tv Vanguarda S.J dos Campos
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5299
+#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Verdes Mares Fortaleza" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo Tv Verdes Mares Fortaleza
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5298
+#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Tem Bauru HD" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo Tv Tem Bauru HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5302
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c3/RBS_TV.png/200px-RBS_TV.png" group-title="Canais abertos",RBS TV HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/15388
+#EXTINF:-1 tvg-id="" tvg-name="Record Campinas HD" tvg-logo="https://s8.postimg.cc/q3z7cg5g5/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais abertos",Record Campinas HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5211
+#EXTINF:-1 tvg-id="Record" tvg-name="Record SP HD" tvg-logo="https://s8.postimg.cc/q3z7cg5g5/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais abertos",Record SP HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5203
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV HD" tvg-logo="https://s8.postimg.cc/dpcfc3yid/1516324585_261fe4377e4f7198eda6d60954095b2e9e5cacca.jpg" group-title="Canais abertos",Rede TV HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5201
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="https://s8.postimg.cc/5wlrk75et/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.jpg" group-title="Canais abertos",SBT HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5196
+#EXTINF:-1 tvg-id="" tvg-name="SBT Nordeste HD" tvg-logo="https://s8.postimg.cc/5wlrk75et/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.jpg" group-title="Canais abertos",SBT Nordeste HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5194
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://s8.postimg.cc/5wlrk75et/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.jpg" group-title="Canais abertos",SBT
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5197
+#EXTINF:-1 tvg-id="" tvg-name="Record Campinas" tvg-logo="https://s8.postimg.cc/q3z7cg5g5/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais abertos",Record Campinas
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5212
+#EXTINF:-1 tvg-id="Record" tvg-name="Record SP" tvg-logo="https://s8.postimg.cc/q3z7cg5g5/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais abertos",Record SP
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5205
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-logo="https://s8.postimg.cc/dpcfc3yid/1516324585_261fe4377e4f7198eda6d60954095b2e9e5cacca.jpg" group-title="Canais abertos",Rede TV
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5202
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://s8.postimg.cc/ah7xz2c8l/1516238874_eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="Documentarios",Animal Planet
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5447
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="Band Sports" tvg-logo="https://s8.postimg.cc/hx77kwhyd/1516239642_ce097a9c842de59c059fdfa7821f72ef817eec75.jpg" group-title="Esportes",Band Sports
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5430
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://s8.postimg.cc/5ikfkjvl1/1516239217_221b3727109dedf11b31af301492faf24acd6261.jpg" group-title="Filmes e Series",AXN
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5443
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://s8.postimg.cc/e0tvowp91/1516239337_557dc8661e44ed7ca15d83ab79d1c7c82ddc846e.jpg" group-title="Infantis",Baby TV
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5440
+#EXTINF:-1 tvg-id="" tvg-name="1 MUSIC" tvg-logo="http://live.moldova9.com/wp-content/uploads/1-music-channel1.png" group-title="Musica",1 MUSIC
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/1082
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://s8.postimg.cc/4ubl1dc85/1516311085_daf8e87ee066625b204c7ab0c72f4fd93495b3eb.jpg" group-title="Canais HBO",HBO 2
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5285
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Canais Premiere",Premiere 2
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5228
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="https://s8.postimg.cc/inzxqqhrp/1516360836_34e97214a21d80f45b12171e5e28ecde28afbaf3.jpg" group-title="Canais Telecine",Telecine Action
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5170
+#EXTINF:-1 tvg-id="" tvg-name="Curta!" tvg-logo="https://s8.postimg.cc/m6bxn4y39/1516303969_17c52198c2fa4d3728a28d35df541d8e500a889b.jpg" group-title="Variedades",Curta!
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5401
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 FULL (hd)*" tvg-logo="https://s8.postimg.cc/cyjp6jlx1/1516306636_b946767d882ebffa31375652a2cc3921182e335c.jpg" group-title="Esportes",ESPN 2 FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23346
+#EXTINF:-1 tvg-id="" tvg-name="Adult 4K: VOD2" tvg-logo="" group-title="Adultos +18",Adult 4K: VOD2
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/3221
+#EXTINF:-1 tvg-id="" tvg-name="1 MUSIC" tvg-logo="http://live.moldova9.com/wp-content/uploads/1-music-channel1.png" group-title="Musica",1 MUSIC
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/1082
+#EXTINF:-1 tvg-id="" tvg-name="105 TV" tvg-logo="http://www.my105.ch/widgets/teaser/img/my105_logo.png" group-title="Musica",105 TV
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/839
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL._SY355_.png" group-title="Filmes e Series",A&E
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5454
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://s8.postimg.cc/8pez468b9/1516238758_3dc4eee5c20558e96d3e5026ad519589b8814465.jpg" group-title="Filmes e Series",AMC
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5450
+#EXTINF:-1 tvg-id="Animal Planet" tvg-name="Animal Planet" tvg-logo="https://s8.postimg.cc/ah7xz2c8l/1516238874_eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="Documentarios",Animal Planet
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5447
+#EXTINF:-1 tvg-id="Arte 1" tvg-name="Arte 1" tvg-logo="https://cdn.reweb.io/hagah/image/Ohvc12JYV6DTXKzan-JdjEIWKbo=/300x300/top/smart/hagah/a/af/arte-1-affc3424.jpg" group-title="Variedades",Arte 1
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5445
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://s8.postimg.cc/5ikfkjvl1/1516239217_221b3727109dedf11b31af301492faf24acd6261.jpg" group-title="Filmes e Series",AXN
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5443
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="Baby TV" tvg-logo="https://s8.postimg.cc/e0tvowp91/1516239337_557dc8661e44ed7ca15d83ab79d1c7c82ddc846e.jpg" group-title="Infantis",Baby TV
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5440
+#EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg-logo="https://s8.postimg.cc/6kum32jj9/1516239506_9b9974cafce5cf724e5338189b8d013ebe2c17e4.jpg" group-title="Notícias",Band News
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5435
+#EXTINF:-1 tvg-id="Band News" tvg-name="Band News" tvg-logo="https://s8.postimg.cc/6kum32jj9/1516239506_9b9974cafce5cf724e5338189b8d013ebe2c17e4.jpg" group-title="Notícias",Band News
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5435
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="https://s8.postimg.cc/4hk6vfelh/1516324071_28ffcd4f79fc9a354305060278b4f675ccdcd601.jpg" group-title="Notícias",Record News
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5209
+#EXTINF:-1 tvg-id="Band Rede" tvg-name="Band SP" tvg-logo="https://s8.postimg.cc/keiys4rk5/1516239409_b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="Canais abertos",Band SP
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5431
+#EXTINF:-1 tvg-id="Band Sports" tvg-name="Band Sports" tvg-logo="https://s8.postimg.cc/hx77kwhyd/1516239642_ce097a9c842de59c059fdfa7821f72ef817eec75.jpg" group-title="Esportes",Band Sports
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5430
+#EXTINF:-1 tvg-id="Bis HD" tvg-name="BlS" tvg-logo="https://postimg.cc/image/sl6vczvzr/" group-title="Musica",BlS
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5428
+#EXTINF:-1 tvg-id="Boomerang" tvg-name="Boomerang" tvg-logo="https://s8.postimg.cc/cyjp6egqd/1516240205_efe708c81a67c52de7219a580dae5821fab9c1de.jpg" group-title="Infantis",Boomerang
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5426
+#EXTINF:-1 tvg-id="" tvg-name="CANCAO NOVA" tvg-logo="https://seeklogo.com/images/C/cancao-nova-logo-32E26101A3-seeklogo.com.png" group-title="Religiosos",CANCAO NOVA
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/888
+#EXTINF:-1 tvg-id="" tvg-name="CANAL RURAL" tvg-logo="http://static.canalrural.com.br/img/cr-logo.png" group-title="Canais abertos",CANAL RURAL
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/914
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="Canal Brasil" tvg-logo="https://pbs.twimg.com/profile_images/1012815616150003712/85IOf7Vv_400x400.jpg" group-title="Filmes e Series",Canal Brasil
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5423
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-name="Cartoon Network" tvg-logo="https://s8.postimg.cc/bw9invl2d/1516240947_cc5a9bb51e655575d37271f7ae5e68702177a152.jpg" group-title="Infantis",Cartoon Network
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5418
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="https://s8.postimg.cc/eqco1buyd/1516241687_223a375f300af8b0ce8a2e33f44e5c9836739a89.jpg" group-title="Filmes e Series",Cinemax
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5412
+#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="http://i2.cdn.turner.com/cnn/2017/images/08/16/cnni.logo_t1.jpg" group-title="Documentarios",CNN International
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5408
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="https://s8.postimg.cc/4ga923zxx/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.jpg" group-title="Esportes",Combate
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5406
+#EXTINF:-1 tvg-id="Comedy Central" tvg-name="Comedy Central" tvg-logo="https://s8.postimg.cc/mj3btb8n9/1516242192_68193e8bc51b466e1238666185410fccd0b8ee98.jpg" group-title="Variedades",Comedy Central
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5403
+#EXTINF:-1 tvg-id="" tvg-name="Curta!" tvg-logo="https://s8.postimg.cc/m6bxn4y39/1516303969_17c52198c2fa4d3728a28d35df541d8e500a889b.jpg" group-title="Variedades",Curta!
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5401
+#EXTINF:-1 tvg-id="Discovery Channel" tvg-name="Discovery Channel" tvg-logo="https://s8.postimg.cc/7zw6rxadh/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.jpg" group-title="Documentarios",Discovery Channel
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5399
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-name="Discovery Civilization" tvg-logo="https://s8.postimg.cc/5ikfkny6t/1516304318_ea0fabc96247cdacd9f0af7b22790b53bd2d48c6.jpg" group-title="Documentarios",Discovery Civilization
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5397
+#EXTINF:-1 tvg-id="Discovery Home and Health" tvg-name="Discovery Home and Health" tvg-logo="https://s8.postimg.cc/wt5qsl8th/1516304527_2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="Documentarios",Discovery Home and Health
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5395
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-name="Discovery Kids" tvg-logo="https://s8.postimg.cc/sk10qg0f9/1516304644_edc471400f6172057f74d5b6d92bd16114264a99.jpg" group-title="Infantis",Discovery Kids
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5393
+#EXTINF:-1 tvg-id="Discovery Science" tvg-name="Discovery Science" tvg-logo="https://s8.postimg.cc/f3427kidx/1516304750_47cba569fa26f81e49f4fdd8596bec9930f0f89e.jpg" group-title="Documentarios",Discovery Science
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5391
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater" tvg-logo="https://s8.postimg.cc/3qrgps1z9/1516304897_f7974bfa3b9d050bd9fab2b1b3d768aecb457639.jpg" group-title="Documentarios",Discovery Theater
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5389
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-name="Discovery Turbo" tvg-logo="https://s8.postimg.cc/p0f30mak5/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.jpg" group-title="Documentarios",Discovery Turbo
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5387
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="https://postimg.cc/image/blxwx9n7r/" group-title="Documentarios",Discovery World
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5385
+#EXTINF:-1 tvg-id="Disney Channel" tvg-name="Disney Channel" tvg-logo="https://s8.postimg.cc/dbb3coegl/1516305216_7644d76efb5153d934b737bd09c4462ba57d3698.jpg" group-title="Infantis",Disney Channel
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5383
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior" tvg-logo="https://s8.postimg.cc/do2hivc5x/1516305311_fdef187c9b89d6286f9b2d369f725f621e412d8a.jpg" group-title="Infantis",Disney Junior
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5381
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD" tvg-logo="https://s8.postimg.cc/ykypnjpmd/1516305423_fd4a752509881f22a0df995e655ba8f0267b3dd7.jpg" group-title="Infantis",Disney XD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5378
+#EXTINF:-1 tvg-id="E!" tvg-name="E!" tvg-logo="https://s8.postimg.cc/mj3bteo3p/1516305633_d4159c885b1b9642652d2166c68fb14ea0118f48.jpg" group-title="Variedades",E!
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5376
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2" tvg-logo="https://s8.postimg.cc/cyjp6jlx1/1516306636_b946767d882ebffa31375652a2cc3921182e335c.jpg" group-title="Esportes",ESPN 2
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5365
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://s8.postimg.cc/swsewo0ph/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="Esportes",ESPN
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5370
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-name="ESPN Brasil" tvg-logo="https://s8.postimg.cc/5ikfkqqhx/1516306529_3124e1403d7ae1a9822115352d305b323ab0e3f3.jpg" group-title="Esportes",ESPN Brasil
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5369
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra" tvg-logo="https://2.bp.blogspot.com/-9QfTN5_-n50/VvsjC_LWDJI/AAAAAAAAAMI/x1GOatbzUU4WAaC0rrqI0zlygYmua42zQ/s400/download.png" group-title="Esportes",ESPN Extra
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5361
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV" tvg-logo="https://s8.postimg.cc/n8m45sjid/1516307200_1f7490d9118234b1616bb0fddf1a0d1ba364b2a1.jpg" group-title="Variedades",Fish TV
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5357
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://s8.postimg.cc/caaun0n11/1516307297_3f171c584b7df80d589aaed8af75066dba195303.jpg" group-title="Variedades",Food Network
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5355
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox" tvg-logo="https://s8.postimg.cc/p1p0tj4it/1516307423_7efd73b9872dd3181c2f5a3391b192a65ff7241b.jpg" group-title="Filmes e Series",Fox
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5352
+#EXTINF:-1 tvg-id="Fox Life" tvg-name="Fox Life" tvg-logo="https://s8.postimg.cc/44ssove7p/1516307532_1480374d0207eff2609baebc726b8d3dc9614b6f.jpg" group-title="Filmes e Series",Fox Life
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5350
+#EXTINF:-1 tvg-id="Fox Sports 2" tvg-name="Fox Sports 2" tvg-logo="https://s8.postimg.cc/n9w1yo36d/1516307934_b476a94f3a9f4bdd0feb9b6086d5a273b5ad1c2e.jpg" group-title="Esportes",Fox Sports 2
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5340
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 1" tvg-logo="https://i.postimg.cc/QdD1hw4H/1516307631-6b3ce654ae31075d91809448b199d3604fa33880.jpg" group-title="Filmes e Series",Fox Premium 1
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/19409
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2" tvg-logo="https://i.postimg.cc/MpYRT5Nt/1516307739-4de824502ee2ab7fc740f3d8e959b278a68e2be4.jpg" group-title="Filmes e Series",Fox Premium 2
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/19410
+#EXTINF:-1 tvg-id="Fox Sports" tvg-name="Fox Sports" tvg-logo="https://s8.postimg.cc/u0cj8336t/1516307827_47a370d229281c0970459096366ddbbe12357919.jpg" group-title="Esportes",Fox Sports
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5341
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura" tvg-logo="https://s8.postimg.cc/h8yd1l8ud/1516308019_b2a8d0b8e6fe09389433405f664918e873391387.jpg" group-title="Canais abertos",Futura
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5336
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="https://s8.postimg.cc/7oeqepbsl/1516308094_9b4156603dcb6ff24f1d22277f244b3eed9816db.jpg" group-title="Filmes e Series",FX
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5334
+#EXTINF:-1 tvg-id="Globo EPTV Campinas" tvg-name="Globo EPTV Campinas" tvg-logo="https://s8.postimg.cc/572z7gf1h/1516308922_f57e4322f19c76069dedcb4ecd78eaffb11a7030.jpg" group-title="Canais abertos",Globo EPTV Campinas
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5326
+#EXTINF:-1 tvg-id="Globo EPTV Ribeirão Preto" tvg-name="Globo EPTV Ribeirão Preto" tvg-logo="https://s8.postimg.cc/572z7gf1h/1516308922_f57e4322f19c76069dedcb4ecd78eaffb11a7030.jpg" group-title="Canais abertos",Globo EPTV Ribeirão Preto
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5323
+#EXTINF:-1 tvg-id="" tvg-name="Globo EPTV São Carlos" tvg-logo="https://s8.postimg.cc/572z7gf1h/1516308922_f57e4322f19c76069dedcb4ecd78eaffb11a7030.jpg" group-title="Canais abertos",Globo EPTV São Carlos
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5322
+#EXTINF:-1 tvg-id="GLOBO INTERNACIONAL*" tvg-name="Globo Internacional" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo Internacional
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5321
+#EXTINF:-1 tvg-id="Globo Minas Gerais" tvg-name="Globo MG" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo MG
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5320
+#EXTINF:-1 tvg-id="Globo RBS" tvg-name="Globo RBS Porto Alegre" tvg-logo="https://s8.postimg.cc/5juddncqt/1516308804_6ce4ce15aa7de400356094d5545dc1a7a79be47f.jpg" group-title="Canais abertos",Globo RBS Porto Alegre
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5312
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",GLOBO RJ
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5311
+#EXTINF:-1 tvg-id="" tvg-name="Globo RN" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo RN
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5308
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo SP
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5307
+#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Belem" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo Tv Belem
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5304
+#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Tem Sorocaba" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo Tv Tem Sorocaba
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5301
+#EXTINF:-1 tvg-id="" tvg-name="Globo TV Tribuna Santos" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo TV Tribuna Santos
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23588
+#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Vanguarda S.J dos Campos" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo Tv Vanguarda S.J dos Campos
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5299
+#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Verdes Mares Fortaleza" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo Tv Verdes Mares Fortaleza
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5298
+#EXTINF:-1 tvg-id="" tvg-name="Globosat +" tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-d8UtGqoBGFA/UJKeQR2cIBI/AAAAAAAAGU8/RZLKFNyMuyg/s1600/logo%2B%2B%2Bglobosat.jpg" group-title="Variedades",Globosat +
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5297
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob" tvg-logo="https://s8.postimg.cc/qthzojirp/1516310467_7a394923dae733aea5c2d0f07bf671299a77875e.jpg" group-title="Infantis",Gloob
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5295
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT" tvg-logo="https://s8.postimg.cc/zbrfsw4px/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.jpg" group-title="Variedades",GNT
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5293
+#EXTINF:-1 tvg-id="H2" tvg-name="H2" tvg-logo="https://s8.postimg.cc/oc68hatqd/1516310848_ac7953a38cf6398672f6c2031610db28de2bd4be.jpg" group-title="Documentarios",H2
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5288
+#EXTINF:-1 tvg-id="" tvg-name="HIT MUSIC CHANNEL" tvg-logo="http://3.bp.blogspot.com/-Ligv8WZRnWE/VcNRGVAKOSI/AAAAAAAAHzY/L8cfmVB_z6U/s1600/logo.png" group-title="Musica",HIT MUSIC CHANNEL
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/1065
+#EXTINF:-1 tvg-id="" tvg-name="M2O MUSIC" tvg-logo="http://tvsefasi.com/images/tvlogo/m2o.jpg" group-title="Musica",M2O MUSIC
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/1106
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="https://s8.postimg.cc/4ubl1dc85/1516311085_daf8e87ee066625b204c7ab0c72f4fd93495b3eb.jpg" group-title="Canais HBO",HBO 2
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5285
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="https://s8.postimg.cc/mkd9mfko5/1516310963_93dd95b2bb0ed437164a949521c4c39a2315839d.jpg" group-title="Canais HBO",HBO
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5286
+#EXTINF:-1 tvg-id="HBO Family" tvg-name="HBO Family" tvg-logo="https://s8.postimg.cc/vfe3wyh6d/1516311196_c901e94fbc94819c91616c75905a41d6af11970c.jpg" group-title="Canais HBO",HBO Family
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5282
+#EXTINF:-1 tvg-id="HBO Plus" tvg-name="HBO Plus" tvg-logo="https://s8.postimg.cc/9sz3fwvgl/1516311316_72fe3dc94524fffb92702a67f9780dd8d20ab761.jpg" group-title="Canais HBO",HBO Plus
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5278
+#EXTINF:-1 tvg-id="HBO Plus*e" tvg-name="HBO Plus*e" tvg-logo="https://s8.postimg.cc/69d5q3l11/1516311467_5fa5e712f15bfb41aac89be2071ba8f69b97a539.jpg" group-title="Canais HBO",HBO Plus*e
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5276
+#EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBO Signature" tvg-logo="https://s8.postimg.cc/6m4jw9nv9/1516311574_cf89ef886267b71b946bc40c6c85bc5c9b2d2080.jpg" group-title="Canais HBO",HBO Signature
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5274
+#EXTINF:-1 tvg-id="History Channel" tvg-name="History Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/4/4d/History_Channel_logo.svg/1134px-History_Channel_logo.svg.png" group-title="Documentarios",History Channel
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5272
+#EXTINF:-1 tvg-id="i-Sat" tvg-name="I-Sat" tvg-logo="http://media.rumbacaracas.com/uploads/news/2012/11/23/isat-s.jpg" group-title="Documentarios",I-Sat
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5270
+#EXTINF:-1 tvg-id="ID: Investigação Discovery" tvg-name="ID: Investigação Discovery" tvg-logo="https://s8.postimg.cc/inzxqh9z9/1516312022_03171a5cdcab670b9e232a9ce39bb98fb5c562a8.jpg" group-title="Documentarios",ID: Investigação Discovery
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5269
+#EXTINF:-1 tvg-id="Lifetime" tvg-name="Lifetime" tvg-logo="https://s8.postimg.cc/rvs6761lx/1516312139_baa73a01080f36bc25efa3684c6f408f87efa9d5.jpg" group-title="Variedades",Lifetime
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5268
+#EXTINF:-1 tvg-id="Max" tvg-name="Max" tvg-logo="https://s8.postimg.cc/li333x4fp/1516312335_77be754915af921d9d5365b5bf9f7afc977ca40b.jpg" group-title="Filmes e Series",Max
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5266
+#EXTINF:-1 tvg-id="Max Prime" tvg-name="Max Prime" tvg-logo="https://s8.postimg.cc/av99yibpx/1516312436_f3ba7da2150f909f2095a7bc644194a7420ab483.jpg" group-title="Filmes e Series",Max Prime
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5264
+#EXTINF:-1 tvg-id="Max Prime*e" tvg-name="Max Prime*e" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Max-prime-e.jpg" group-title="Filmes e Series",Max Prime*e
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5262
+#EXTINF:-1 tvg-id="Max Up HD" tvg-name="Max Up" tvg-logo="https://s8.postimg.cc/6m4jwcg6d/1516312593_36e8b2da5547db4c5bdff448859cde890b79f518.jpg" group-title="Filmes e Series",Max Up
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5260
+#EXTINF:-1 tvg-id="Megapix" tvg-name="Megapix" tvg-logo="https://s8.postimg.cc/b80o4pout/1516312673_6d1d76a391dc330a0250a95fb873c7313c9eacf2.jpg" group-title="Filmes e Series",Megapix
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5258
+#EXTINF:-1 tvg-id="" tvg-name="MONTECARLO TV" tvg-logo="http://www.montecarlotv.com.uy/lbdl/wp-content/uploads/2017/05/blano.png" group-title="Musica",MONTECARLO TV
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/849
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://s8.postimg.cc/gjfkpfin9/1516312775_9439b92b416e0eaea27bcf2b3a07ae77c55263df.jpg" group-title="Musica",MTV
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5256
+#EXTINF:-1 tvg-id="Multishow" tvg-name="Multishow" tvg-logo="https://s8.postimg.cc/upvbko185/1516312851_ba318e4b09d8586cfeac9ec76bc5816143edc3ef.jpg" group-title="Musica",Multishow
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5254
+#EXTINF:-1 tvg-id="" tvg-name="Music Box Brazil" tvg-logo="http://www.coletiva.net/files/e4da3b7fbbce2345d7772b0674a318d5/midia_foto/20171122/Music-Box-Brazil_nov17.png" group-title="Musica",Music Box Brazil
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5251
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids" tvg-logo="https://s8.postimg.cc/ym8ngo1n9/1516319142_de02e1b2a44cd3d481196e18916399ba38ea7654.jpg" group-title="Infantis",NatGeo Kids
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5250
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NatGeo Wild" tvg-logo="https://s8.postimg.cc/mkd9mikp1/1516318948_9930a9b4d86cac9b03a91650951d47828388f718.jpg" group-title="Documentarios",NatGeo Wild
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5247
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic" tvg-logo="https://s8.postimg.cc/s8jkdf4h1/1516319258_4582b925ef1ccaaeaf6fc165249d007d97d19e97.jpg" group-title="Documentarios",National Geographic
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5245
+#EXTINF:-1 tvg-id="NBR" tvg-name="NBR" tvg-logo="http://vto.gratis/imagens/upload/prog/ed948dd77df643bfb1eb21c7d1e0c7f1.jpg" group-title="Canais abertos",NBR
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5242
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr" tvg-logo="https://s8.postimg.cc/ftwsd47tx/1516319773_c9501087eef0b5c1e5ebe74be3a54d255638e660.jpg" group-title="Infantis",Nick Jr
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5241
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://s8.postimg.cc/qgqlij89h/1516319666_1d30fe30c3a44aa9e392a724eca183ff165abaa7.jpg" group-title="Infantis",Nickelodeon
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5238
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF" tvg-logo="https://s8.postimg.cc/hlpr816md/1516320116_de86d8a6b771725c17d78fa7e0cd82e16b83382d.jpg" group-title="Esportes",OFF
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5235
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount" tvg-logo="https://s8.postimg.cc/ftwsd5i4l/1516320245_1bb5f2856804bc053a3adbc77a3744d87fd477cf.jpg" group-title="Filmes e Series",Paramount
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5232
+#EXTINF:-1 tvg-id="" tvg-name="Play TV" tvg-logo="http://www.plgcolecionaveis.com.br/noticias_imgs/4988.jpg" group-title="Variedades",Play TV
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5230
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Canais Premiere",Premiere 2
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5228
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Canais Premiere",Premiere 3
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5226
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Canais Premiere",Premiere 4
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5223
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Canais Premiere",Premiere 5
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5221
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Canais Premiere",Premiere 6
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5219
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Canais Premiere",Premiere 7
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5218
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 8" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Canais Premiere",Premiere 8
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5217
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Canais Premiere",Premiere Clubes
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5215
+#EXTINF:-1 tvg-id="" tvg-name="Record Campinas" tvg-logo="https://s8.postimg.cc/q3z7cg5g5/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais abertos",Record Campinas
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5212
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News" tvg-logo="https://s8.postimg.cc/4hk6vfelh/1516324071_28ffcd4f79fc9a354305060278b4f675ccdcd601.jpg" group-title="Notícias",Record News
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5209
+#EXTINF:-1 tvg-id="Record" tvg-name="Record SP" tvg-logo="https://s8.postimg.cc/q3z7cg5g5/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais abertos",Record SP
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5205
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV" tvg-logo="https://s8.postimg.cc/dpcfc3yid/1516324585_261fe4377e4f7198eda6d60954095b2e9e5cacca.jpg" group-title="Canais abertos",Rede TV
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5202
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida" tvg-logo="https://s8.postimg.cc/vfe3x66yd/1516324691_08c354cb70083b600155c5b2e315e559d7f01fac.jpg" group-title="Religiosos",Rede Vida
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5200
+#EXTINF:-1 tvg-id="" tvg-name="REDE ADVENIR" tvg-logo="" group-title="Religiosos",REDE ADVENIR
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/4261
+#EXTINF:-1 tvg-id="" tvg-name="REDE BRASIL" tvg-logo="" group-title="Religiosos",REDE BRASIL
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/4260
+#EXTINF:-1 tvg-id="Rede Século 21" tvg-name="REDE SECULO 21" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple127/v4/fb/10/07/fb100781-6111-2232-472f-c520a7a4f137/mzl.knjmrqef.jpg/1200x630bb.jpg" group-title="Religiosos",REDE SECULO 21
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/886
+#EXTINF:-1 tvg-id="" tvg-name="REDE SUPER" tvg-logo="https://images.gospelprime.com.br/wutTgnplmPAR1g7eXSa5pvB7hFs=/370x0/smart/filters:strip_icc()/noticias.gospelprime.com.br/files/2012/09/Rede-Super.jpg" group-title="Religiosos",REDE SUPER
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/881
+#EXTINF:-1 tvg-id="" tvg-name="RETRO MUSIC" tvg-logo="https://pt.live-tv-channels.net/pt-data/uploads/logo/cz-retro-music-tv.jpg" group-title="Musica",RETRO MUSIC
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/543
+#EXTINF:-1 tvg-id="Rede Gospel" tvg-name="REDE GOSPEL" tvg-logo="http://images.mi.tv/channels/br_rede-gospel_m.png" group-title="Religiosos",REDE GOSPEL
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/884
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT" tvg-logo="https://s8.postimg.cc/5wlrk75et/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.jpg" group-title="Canais abertos",SBT
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5197
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony" tvg-logo="https://s8.postimg.cc/kskarrlyd/1516325290_f4c6c1dbad3b599cf79b81d46858dc50ed08cfc8.jpg" group-title="Filmes e Series",Sony
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5193
+#EXTINF:-1 tvg-id="SPACE" tvg-name="Space" tvg-logo="https://s8.postimg.cc/g6o6jesph/1516325405_d2eac5d3e27f371e6d37a7a5ffe1067df0ad4309.jpg" group-title="Filmes e Series",Space
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5190
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2" tvg-logo="https://s8.postimg.cc/7oeqf3h1x/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.jpg" group-title="Esportes",SporTV 2
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5186
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3" tvg-logo="https://s8.postimg.cc/j0rbww56d/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.jpg" group-title="Esportes",SporTV 3
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5183
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://s8.postimg.cc/ym8nguoud/1516325912_5b84ceaa9a5a2872fb6d4b2b8d6d5c318c221277.jpg" group-title="Filmes e Series",Studio Universal
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5179
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy" tvg-logo="http://media.idownloadblog.com/wp-content/uploads/2013/08/syfy-icon.png" group-title="Filmes e Series",SyFy
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5176
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://juegosjuguetesycoleccionables.com/wp-content/uploads/2018/03/tbs-715x400.jpg" group-title="Filmes e Series",TBS
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5173
+#EXTINF:-1 tvg-id="" tvg-name="TV FUTURA" tvg-logo="https://vignette.wikia.nocookie.net/stiodopicapalamarelo/images/2/25/Futura_logo.png/revision/latest?cb=20110617191323&path-prefix=pt-br" group-title="Canais abertos",TV FUTURA
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/603
+#EXTINF:-1 tvg-id="TCM - Turner Classic Movies" tvg-name="TCM" tvg-logo="https://s8.postimg.cc/6yvy2t13p/1516361623_fad62047e94f5297e9ef74bf5c71ca29b66597f0.jpg" group-title="Filmes e Series",TCM
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5172
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action" tvg-logo="https://s8.postimg.cc/inzxqqhrp/1516360836_34e97214a21d80f45b12171e5e28ecde28afbaf3.jpg" group-title="Canais Telecine",Telecine Action
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5170
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult" tvg-logo="https://s8.postimg.cc/aihvsl18l/1516360963_3650ca65bf2d7dfd81b84e1d0490bbfec6102ea1.jpg" group-title="Canais Telecine",Telecine Cult
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5167
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun" tvg-logo="https://s8.postimg.cc/3s1ej5tid/1516361211_233589ebc98bb0fc54278e2a1cc626e1dda51a2a.jpg" group-title="Canais Telecine",Telecine Fun
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5164
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca" tvg-logo="https://s8.postimg.cc/5wlrk8nf9/1516361300_46a9179784e301633ee84c04dcf0e707f362e096.jpg" group-title="Canais Telecine",Telecine Pipoca
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5161
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium" tvg-logo="https://s8.postimg.cc/ftwsdbagl/1516361393_00dbf22b51a4de3512bd744ef42116ffd04eb5d9.jpg" group-title="Canais Telecine",Telecine Premium
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5158
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch" tvg-logo="https://s8.postimg.cc/4hk6vj9hh/1516361487_90fe88aa0de57cd024250a92af9ab73cc3747ee0.jpg" group-title="Canais Telecine",Telecine Touch
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5156
+#EXTINF:-1 tvg-id="Terra Viva" tvg-name="Terra Viva" tvg-logo="https://s8.postimg.cc/yz01n3jzp/1516361793_1877bdbd45e7263cd94eb22697f19ff409543c3c.jpg" group-title="Canais abertos",Terra Viva
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5153
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://s8.postimg.cc/6m4jwn5z9/1516362021_079595e05abe40b1ab17cccb6caa9a1148f35e41.jpg" group-title="Variedades",TLC
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5152
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="https://s8.postimg.cc/w4ww9nx91/1516362096_b118548d389431cc50d80da692ee4861553c9b35.jpg" group-title="Filmes e Series",TNT
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5150
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Series" tvg-logo="https://s8.postimg.cc/upvbky3vp/1516362193_e8ec6624a7201b93a9fd10aefa96116bf612de69.jpg" group-title="Filmes e Series",TNT Series
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5148
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast" tvg-logo="https://s8.postimg.cc/5wlrkasl1/1516362285_6fdf477e3e280d8326fbf2b1231cec180617462d.jpg" group-title="Infantis",Tooncast
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5147
+#EXTINF:-1 tvg-id="TruTV" tvg-name="TruTv" tvg-logo="https://s8.postimg.cc/k31ifjb5x/1516362361_4210102befbcd3b65ecd86dbb4bd6a24ad8fa580.jpg" group-title="Variedades",TruTv
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5145
+#EXTINF:-1 tvg-id="TV Escola" tvg-name="Tv Escola" tvg-logo="https://s8.postimg.cc/s9ti6kyid/1516364124_83e17ed8cb85145d51af2dde51cfb05b4bf2038b.jpg" group-title="Canais abertos",Tv Escola
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5139
+#EXTINF:-1 tvg-id="TV Gazeta" tvg-name="Tv Gazeta" tvg-logo="http://comercial.recordtv.com.br/files/2015/12/RIO-BRANCO_AC.png" group-title="Canais abertos",Tv Gazeta
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5138
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel" tvg-logo="https://s8.postimg.cc/nnxdy8kp1/1516364208_c170f20fb41b828eaba2cf07cd91f12e7929575c.jpg" group-title="Filmes e Series",Universal Channel
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5136
+#EXTINF:-1 tvg-id="Vh1" tvg-name="VH1" tvg-logo="https://s8.postimg.cc/s9ti6llnp/1516364336_b7d6ed1c59fe84cb13b82893eb0503161eea186a.jpg" group-title="Musica",VH1
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5134
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA" tvg-logo="https://s8.postimg.cc/yar73ofzp/1516364422_81b2fc789f43d1b600b4406ad018f0876f508b0c.jpg" group-title="Variedades",VIVA
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5132
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel" tvg-logo="https://s8.postimg.cc/xxzsxi5fp/1516364542_ff6d2a4bbbd056c43cf668d2bf40fde0f6286e35.jpg" group-title="Filmes e Series",Warner Channel
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5130
+#EXTINF:-1 tvg-id="" tvg-name="XITE" tvg-logo="https://www.xite.tv/img/xite_logo.png" group-title="Musica",XITE
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/1059
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo" tvg-logo="https://s8.postimg.cc/v3wnk2az9/1516364678_b3bf53791e3d9d09f55edae7e59d5c3c078f362b.jpg" group-title="Esportes",Woohoo
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5128
+#EXTINF:-1 tvg-id="" tvg-name="Zoomoo" tvg-logo="http://www.zoomoo.tv.br/wp-content/themes/kids-world/images/logo.png" group-title="Infantis",Zoomoo
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5126
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="Esporte Interativo" tvg-logo="https://odia.ig.com.br/_midias/png/2018/08/09/700x470/1_19510665_10157445658718504_4719318051247690804_n-7612664.png" group-title="Esportes",Esporte Interativo
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23764
+#EXTINF:-1 tvg-id="SporTV" tvg-name="Sportv" tvg-logo="https://i.postimg.cc/Dy8Y1Jnq/1516325501-a57d469ee395de417336e66ec14dd41ddbf22918.jpg" group-title="Esportes",Sportv
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23839
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil 2019 | 1" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2018/01/09125050/BBB-18-840x473.jpg" group-title="Variedades",Big Brother Brasil 2019 | 1
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22497
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil 2019 | 2" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2018/01/09125050/BBB-18-840x473.jpg" group-title="Variedades",Big Brother Brasil 2019 | 2
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22498
+#EXTINF:-1 tvg-id="" tvg-name="Big Brother Brasil 2019 | 3" tvg-logo="https://uploads.metropoles.com/wp-content/uploads/2018/01/09125050/BBB-18-840x473.jpg" group-title="Variedades",Big Brother Brasil 2019 | 3
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22499
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 1" tvg-logo="https://paraibaonline.com.br/wp-content/uploads/2018/12/conheca-os-participantes-do-bbb-17.jpg" group-title="Variedades",BBB CAM 1
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22804
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 2" tvg-logo="https://paraibaonline.com.br/wp-content/uploads/2018/12/conheca-os-participantes-do-bbb-17.jpg" group-title="Variedades",BBB CAM 2
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22803
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 3" tvg-logo="https://paraibaonline.com.br/wp-content/uploads/2018/12/conheca-os-participantes-do-bbb-17.jpg" group-title="Variedades",BBB CAM 3
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22802
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 4" tvg-logo="https://paraibaonline.com.br/wp-content/uploads/2018/12/conheca-os-participantes-do-bbb-17.jpg" group-title="Variedades",BBB CAM 4
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22801
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 5" tvg-logo="https://paraibaonline.com.br/wp-content/uploads/2018/12/conheca-os-participantes-do-bbb-17.jpg" group-title="Variedades",BBB CAM 5
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22800
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 6" tvg-logo="https://paraibaonline.com.br/wp-content/uploads/2018/12/conheca-os-participantes-do-bbb-17.jpg" group-title="Variedades",BBB CAM 6
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22799
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 7" tvg-logo="https://paraibaonline.com.br/wp-content/uploads/2018/12/conheca-os-participantes-do-bbb-17.jpg" group-title="Variedades",BBB CAM 7
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22798
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 8" tvg-logo="https://paraibaonline.com.br/wp-content/uploads/2018/12/conheca-os-participantes-do-bbb-17.jpg" group-title="Variedades",BBB CAM 8
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22797
+#EXTINF:-1 tvg-id="" tvg-name="BBB CAM 9" tvg-logo="https://paraibaonline.com.br/wp-content/uploads/2018/12/conheca-os-participantes-do-bbb-17.jpg" group-title="Variedades",BBB CAM 9
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22796
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL._SY355_.png" group-title="Filmes e Series",A&E HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5452
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="https://s8.postimg.cc/8pez468b9/1516238758_3dc4eee5c20558e96d3e5026ad519589b8814465.jpg" group-title="Filmes e Series",AMC HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5448
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet HD" tvg-logo="https://s8.postimg.cc/ah7xz2c8l/1516238874_eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="Documentarios",Animal Planet HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5446
+#EXTINF:-1 tvg-id="Arte 1 HD" tvg-name="Arte 1 HD" tvg-logo="https://cdn.reweb.io/hagah/image/Ohvc12JYV6DTXKzan-JdjEIWKbo=/300x300/top/smart/hagah/a/af/arte-1-affc3424.jpg" group-title="Variedades",Arte 1 HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5444
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN HD" tvg-logo="https://s8.postimg.cc/5ikfkjvl1/1516239217_221b3727109dedf11b31af301492faf24acd6261.jpg" group-title="Filmes e Series",AXN HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5441
+#EXTINF:-1 tvg-id="Band News HD" tvg-name="Band News HD" tvg-logo="https://s8.postimg.cc/6kum32jj9/1516239506_9b9974cafce5cf724e5338189b8d013ebe2c17e4.jpg" group-title="Notícias",Band News HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5434
+#EXTINF:-1 tvg-id="Band Sports HD" tvg-name="Band Sports HD" tvg-logo="https://s8.postimg.cc/hx77kwhyd/1516239642_ce097a9c842de59c059fdfa7821f72ef817eec75.jpg" group-title="Esportes",Band Sports HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5429
+#EXTINF:-1 tvg-id="Bis HD" tvg-name="BIS HD" tvg-logo="https://s8.postimg.cc/ah7xz49ol/1516239931_46636112ac8a0a27fde2334d461e7aba1b722c0f.jpg" group-title="Musica",BIS HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5427
+#EXTINF:-1 tvg-id="Boomerang HD" tvg-name="Boomerang HD" tvg-logo="https://s8.postimg.cc/cyjp6egqd/1516240205_efe708c81a67c52de7219a580dae5821fab9c1de.jpg" group-title="Infantis",Boomerang HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5424
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network HD" tvg-logo="https://s8.postimg.cc/bw9invl2d/1516240947_cc5a9bb51e655575d37271f7ae5e68702177a152.jpg" group-title="Infantis",Cartoon Network HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5416
+#EXTINF:-1 tvg-id="Cinemax HD" tvg-name="Cinemax HD" tvg-logo="https://s8.postimg.cc/eqco1buyd/1516241687_223a375f300af8b0ce8a2e33f44e5c9836739a89.jpg" group-title="Filmes e Series",Cinemax HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5410
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="https://s8.postimg.cc/4ga923zxx/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.jpg" group-title="Esportes",Combate HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5404
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central HD" tvg-logo="https://s8.postimg.cc/mj3btb8n9/1516242192_68193e8bc51b466e1238666185410fccd0b8ee98.jpg" group-title="Variedades",Comedy Central HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5402
+#EXTINF:-1 tvg-id="" tvg-name="Curta! HD" tvg-logo="https://s8.postimg.cc/m6bxn4y39/1516303969_17c52198c2fa4d3728a28d35df541d8e500a889b.jpg" group-title="Variedades",Curta! HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5400
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel HD" tvg-logo="https://s8.postimg.cc/7zw6rxadh/1516304181_46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.jpg" group-title="Documentarios",Discovery Channel HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5398
+#EXTINF:-1 tvg-id="Discovery Civilization HD" tvg-name="Discovery Civilization HD" tvg-logo="https://s8.postimg.cc/5ikfkny6t/1516304318_ea0fabc96247cdacd9f0af7b22790b53bd2d48c6.jpg" group-title="Documentarios",Discovery Civilization HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5396
+#EXTINF:-1 tvg-id="Discovery Home and Health HD" tvg-name="Discovery Home and Health HD" tvg-logo="https://s8.postimg.cc/wt5qsl8th/1516304527_2da0f142fc25feed1d546aac7a1bc93564eca785.jpg" group-title="Documentarios",Discovery Home and Health HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5394
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids HD" tvg-logo="https://s8.postimg.cc/sk10qg0f9/1516304644_edc471400f6172057f74d5b6d92bd16114264a99.jpg" group-title="Infantis",Discovery Kids HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5392
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="Discovery Science HD" tvg-logo="https://s8.postimg.cc/f3427kidx/1516304750_47cba569fa26f81e49f4fdd8596bec9930f0f89e.jpg" group-title="Documentarios",Discovery Science HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5390
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater HD" tvg-logo="https://s8.postimg.cc/3qrgps1z9/1516304897_f7974bfa3b9d050bd9fab2b1b3d768aecb457639.jpg" group-title="Documentarios",Discovery Theater HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5388
+#EXTINF:-1 tvg-id="Discovery Turbo HD" tvg-name="Discovery Turbo HD" tvg-logo="https://s8.postimg.cc/p0f30mak5/1516304981_7e49582c4bf61a25a2c3e2901514e8a6690e61e1.jpg" group-title="Documentarios",Discovery Turbo HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5386
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World HD" tvg-logo="https://s8.postimg.cc/dbb3com6d/1516305094_516d89d1f346643f27d856707cf1384a24455144.jpg" group-title="Documentarios",Discovery World HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5384
+#EXTINF:-1 tvg-id="Disney Channel HD" tvg-name="Disney Channel HD" tvg-logo="https://s8.postimg.cc/dbb3coegl/1516305216_7644d76efb5153d934b737bd09c4462ba57d3698.jpg" group-title="Infantis",Disney Channel HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5382
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior HD" tvg-logo="https://s8.postimg.cc/do2hivc5x/1516305311_fdef187c9b89d6286f9b2d369f725f621e412d8a.jpg" group-title="Infantis",Disney Junior HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5379
+#EXTINF:-1 tvg-id="Disney XD" tvg-name="Disney XD HD" tvg-logo="https://s8.postimg.cc/ykypnjpmd/1516305423_fd4a752509881f22a0df995e655ba8f0267b3dd7.jpg" group-title="Infantis",Disney XD HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5377
+#EXTINF:-1 tvg-id="E!" tvg-name="E! HD" tvg-logo="https://s8.postimg.cc/mj3bteo3p/1516305633_d4159c885b1b9642652d2166c68fb14ea0118f48.jpg" group-title="Variedades",E! HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5375
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN Brasil HD" tvg-logo="https://s8.postimg.cc/5ikfkqqhx/1516306529_3124e1403d7ae1a9822115352d305b323ab0e3f3.jpg" group-title="Esportes",ESPN Brasil HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5367
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra HD" tvg-logo="https://2.bp.blogspot.com/-9QfTN5_-n50/VvsjC_LWDJI/AAAAAAAAAMI/x1GOatbzUU4WAaC0rrqI0zlygYmua42zQ/s400/download.png" group-title="Esportes",ESPN Extra HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5360
+#EXTINF:-1 tvg-id="ESPN  HD" tvg-name="ESPN HD" tvg-logo="https://s8.postimg.cc/swsewo0ph/1516306420_45fec84e387e19225b7a3037065d0418f6ec3a85.jpg" group-title="Esportes",ESPN HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5366
+#EXTINF:-1 tvg-id="" tvg-name="ESPN 2 HD" tvg-logo="https://s8.postimg.cc/cyjp6jlx1/1516306636_b946767d882ebffa31375652a2cc3921182e335c.jpg" group-title="Esportes",ESPN 2 HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5363
+#EXTINF:-1 tvg-id="" tvg-name="Fish TV HD" tvg-logo="https://s8.postimg.cc/n8m45sjid/1516307200_1f7490d9118234b1616bb0fddf1a0d1ba364b2a1.jpg" group-title="Variedades",Fish TV HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5356
+#EXTINF:-1 tvg-id="" tvg-name="Food Network HD" tvg-logo="https://s8.postimg.cc/caaun0n11/1516307297_3f171c584b7df80d589aaed8af75066dba195303.jpg" group-title="Variedades",Food Network HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5353
+#EXTINF:-1 tvg-id="Fox HD" tvg-name="Fox HD" tvg-logo="https://s8.postimg.cc/p1p0tj4it/1516307423_7efd73b9872dd3181c2f5a3391b192a65ff7241b.jpg" group-title="Filmes e Series",Fox HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5351
+#EXTINF:-1 tvg-id="Fox Life HD" tvg-name="Fox Life HD" tvg-logo="https://s8.postimg.cc/44ssove7p/1516307532_1480374d0207eff2609baebc726b8d3dc9614b6f.jpg" group-title="Filmes e Series",Fox Life HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5348
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 1 HD" tvg-logo="https://s8.postimg.cc/s8jkd64ed/1516307631_6b3ce654ae31075d91809448b199d3604fa33880.jpg" group-title="Filmes e Series",Fox Premium 1 HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5345
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 HD" tvg-logo="https://s8.postimg.cc/x772rpfx1/1516307739_4de824502ee2ab7fc740f3d8e959b278a68e2be4.jpg" group-title="Filmes e Series",Fox Premium 2 HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5342
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="Fox Sports 2 HD" tvg-logo="https://s8.postimg.cc/n9w1yo36d/1516307934_b476a94f3a9f4bdd0feb9b6086d5a273b5ad1c2e.jpg" group-title="Esportes",Fox Sports 2 HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5339
+#EXTINF:-1 tvg-id="Fox Sports HD" tvg-name="Fox Sports HD" tvg-logo="https://s8.postimg.cc/u0cj8336t/1516307827_47a370d229281c0970459096366ddbbe12357919.jpg" group-title="Esportes",Fox Sports HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5337
+#EXTINF:-1 tvg-id="Futura" tvg-name="Futura HD" tvg-logo="https://s8.postimg.cc/h8yd1l8ud/1516308019_b2a8d0b8e6fe09389433405f664918e873391387.jpg" group-title="Canais abertos",Futura HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5335
+#EXTINF:-1 tvg-id="FX HD" tvg-name="FX HD" tvg-logo="https://s8.postimg.cc/7oeqepbsl/1516308094_9b4156603dcb6ff24f1d22277f244b3eed9816db.jpg" group-title="Filmes e Series",FX HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5332
+#EXTINF:-1 tvg-id="" tvg-name="Globo Brasília HD" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo Brasília HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/12046
+#EXTINF:-1 tvg-id="Globo Minas Gerais" tvg-name="Globo MG HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo MG HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/13175
+#EXTINF:-1 tvg-id="Globo News HD" tvg-name="Globo News HD" tvg-logo="https://s8.postimg.cc/4hk6v3m7p/1516309117_7f7c1bfb444c2e2ce328bfb0a775a505c7698a86.jpg" group-title="Notícias",Globo News HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5316
+#EXTINF:-1 tvg-id="" tvg-name="Globo Nordeste HD" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo Nordeste HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5313
+#EXTINF:-1 tvg-id="Globo RJ" tvg-name="GLOBO RJ HD" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",GLOBO RJ HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5310
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP HD" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo SP HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5306
+#EXTINF:-1 tvg-id="TV Anhanguera" tvg-name="Globo TV Anhanguera HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo TV Anhanguera HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/15386
+#EXTINF:-1 tvg-id="" tvg-name="Globo Tv Tem Bauru HD" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo Tv Tem Bauru HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5302
+#EXTINF:-1 tvg-id="" tvg-name="Globosat +  HD" tvg-logo="http://exorbeo.com/wp-content/uploads/blogger/-d8UtGqoBGFA/UJKeQR2cIBI/AAAAAAAAGU8/RZLKFNyMuyg/s1600/logo%2B%2B%2Bglobosat.jpg" group-title="Variedades",Globosat +  HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5296
+#EXTINF:-1 tvg-id="Gloob HD" tvg-name="Gloob HD" tvg-logo="https://s8.postimg.cc/qthzojirp/1516310467_7a394923dae733aea5c2d0f07bf671299a77875e.jpg" group-title="Infantis",Gloob HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5294
+#EXTINF:-1 tvg-id="GNT HD" tvg-name="GNT HD" tvg-logo="https://s8.postimg.cc/zbrfsw4px/1516310558_5ec5a99a7db61a06b36829944ba1e1aa55e5a2be.jpg" group-title="Variedades",GNT HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5292
+#EXTINF:-1 tvg-id="H2 HD" tvg-name="H2 HD" tvg-logo="https://s8.postimg.cc/oc68hatqd/1516310848_ac7953a38cf6398672f6c2031610db28de2bd4be.jpg" group-title="Documentarios",H2 HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5287
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 HD" tvg-logo="https://s8.postimg.cc/4ubl1dc85/1516311085_daf8e87ee066625b204c7ab0c72f4fd93495b3eb.jpg" group-title="Canais HBO",HBO 2 HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5283
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="https://s8.postimg.cc/vfe3wyh6d/1516311196_c901e94fbc94819c91616c75905a41d6af11970c.jpg" group-title="Canais HBO",HBO Family HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5281
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://s8.postimg.cc/mkd9mfko5/1516310963_93dd95b2bb0ed437164a949521c4c39a2315839d.jpg" group-title="Canais HBO",HBO HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5279
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO Plus HD" tvg-logo="https://s8.postimg.cc/9sz3fwvgl/1516311316_72fe3dc94524fffb92702a67f9780dd8d20ab761.jpg" group-title="Canais HBO",HBO Plus HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5277
+#EXTINF:-1 tvg-id="HBO Plus*e HD" tvg-name="HBO Plus*e HD" tvg-logo="https://s8.postimg.cc/69d5q3l11/1516311467_5fa5e712f15bfb41aac89be2071ba8f69b97a539.jpg" group-title="Canais HBO",HBO Plus*e HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5275
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="https://s8.postimg.cc/6m4jw9nv9/1516311574_cf89ef886267b71b946bc40c6c85bc5c9b2d2080.jpg" group-title="Canais HBO",HBO Signature HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5273
+#EXTINF:-1 tvg-id="History Channel HD" tvg-name="History Channel HD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/4/4d/History_Channel_logo.svg/1134px-History_Channel_logo.svg.png" group-title="Documentarios",History Channel HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5271
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime HD" tvg-logo="https://s8.postimg.cc/rvs6761lx/1516312139_baa73a01080f36bc25efa3684c6f408f87efa9d5.jpg" group-title="Variedades",Lifetime HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5267
+#EXTINF:-1 tvg-id="Max HD" tvg-name="Max HD" tvg-logo="https://s8.postimg.cc/li333x4fp/1516312335_77be754915af921d9d5365b5bf9f7afc977ca40b.jpg" group-title="Filmes e Series",Max HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5265
+#EXTINF:-1 tvg-id="Max Prime HD" tvg-name="Max Prime HD" tvg-logo="https://s8.postimg.cc/av99yibpx/1516312436_f3ba7da2150f909f2095a7bc644194a7420ab483.jpg" group-title="Filmes e Series",Max Prime HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5263
+#EXTINF:-1 tvg-id="Max Prime*e HD" tvg-name="Max Prime*e HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/Max-prime-e.jpg" group-title="Filmes e Series",Max Prime*e HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5261
+#EXTINF:-1 tvg-id="Max Up HD" tvg-name="Max Up HD" tvg-logo="https://s8.postimg.cc/6m4jwcg6d/1516312593_36e8b2da5547db4c5bdff448859cde890b79f518.jpg" group-title="Filmes e Series",Max Up HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5259
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="Megapix HD" tvg-logo="https://s8.postimg.cc/b80o4pout/1516312673_6d1d76a391dc330a0250a95fb873c7313c9eacf2.jpg" group-title="Filmes e Series",Megapix HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5257
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV HD" tvg-logo="https://s8.postimg.cc/gjfkpfin9/1516312775_9439b92b416e0eaea27bcf2b3a07ae77c55263df.jpg" group-title="Musica",MTV HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5255
+#EXTINF:-1 tvg-id="Multishow HD" tvg-name="Multishow HD" tvg-logo="https://s8.postimg.cc/upvbko185/1516312851_ba318e4b09d8586cfeac9ec76bc5816143edc3ef.jpg" group-title="Musica",Multishow HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5252
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids HD" tvg-logo="https://s8.postimg.cc/ym8ngo1n9/1516319142_de02e1b2a44cd3d481196e18916399ba38ea7654.jpg" group-title="Infantis",NatGeo Kids HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5248
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="NatGeo Wild HD" tvg-logo="https://s8.postimg.cc/mkd9mikp1/1516318948_9930a9b4d86cac9b03a91650951d47828388f718.jpg" group-title="Documentarios",NatGeo Wild HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5246
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic HD" tvg-logo="https://s8.postimg.cc/s8jkdf4h1/1516319258_4582b925ef1ccaaeaf6fc165249d007d97d19e97.jpg" group-title="Documentarios",National Geographic HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5243
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick Jr HD" tvg-logo="https://s8.postimg.cc/ftwsd47tx/1516319773_c9501087eef0b5c1e5ebe74be3a54d255638e660.jpg" group-title="Infantis",Nick Jr HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5239
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon HD" tvg-logo="https://s8.postimg.cc/qgqlij89h/1516319666_1d30fe30c3a44aa9e392a724eca183ff165abaa7.jpg" group-title="Infantis",Nickelodeon HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5237
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF HD" tvg-logo="https://s8.postimg.cc/hlpr816md/1516320116_de86d8a6b771725c17d78fa7e0cd82e16b83382d.jpg" group-title="Esportes",OFF HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5233
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount HD" tvg-logo="https://s8.postimg.cc/ftwsd5i4l/1516320245_1bb5f2856804bc053a3adbc77a3744d87fd477cf.jpg" group-title="Filmes e Series",Paramount HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5231
+#EXTINF:-1 tvg-id="Premiere 2" tvg-name="Premiere 2 HD" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Canais Premiere",Premiere 2 HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5227
+#EXTINF:-1 tvg-id="Premiere 3" tvg-name="Premiere 3 HD" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Canais Premiere",Premiere 3 HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5224
+#EXTINF:-1 tvg-id="Premiere 4" tvg-name="Premiere 4 HD" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Canais Premiere",Premiere 4 HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5222
+#EXTINF:-1 tvg-id="Premiere 5" tvg-name="Premiere 5 HD" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Canais Premiere",Premiere 5 HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5220
+#EXTINF:-1 tvg-id="Premiere 6" tvg-name="Premiere 6 HD" tvg-logo="https://i.postimg.cc/FH2tYbSd/1516320977-d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Canais Premiere",Premiere 6 HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/19433
+#EXTINF:-1 tvg-id="Premiere 7" tvg-name="Premiere 7 HD" tvg-logo="https://i.postimg.cc/FH2tYbSd/1516320977-d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Canais Premiere",Premiere 7 HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/19432
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes HD" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Canais Premiere",Premiere Clubes HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5214
+#EXTINF:-1 tvg-id="" tvg-name="RBS TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/c/c3/RBS_TV.png/200px-RBS_TV.png" group-title="Canais abertos",RBS TV HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/15388
+#EXTINF:-1 tvg-id="" tvg-name="Record Campinas HD" tvg-logo="https://s8.postimg.cc/q3z7cg5g5/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais abertos",Record Campinas HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5211
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News HD" tvg-logo="https://s8.postimg.cc/4hk6vfelh/1516324071_28ffcd4f79fc9a354305060278b4f675ccdcd601.jpg" group-title="Notícias",Record News HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5207
+#EXTINF:-1 tvg-id="Record" tvg-name="Record SP HD" tvg-logo="https://s8.postimg.cc/q3z7cg5g5/1516323964_5c947f2bcc6210d34cc80e4df7cf167d66493dfc.jpg" group-title="Canais abertos",Record SP HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5203
+#EXTINF:-1 tvg-id="Rede TV" tvg-name="Rede TV HD" tvg-logo="https://s8.postimg.cc/dpcfc3yid/1516324585_261fe4377e4f7198eda6d60954095b2e9e5cacca.jpg" group-title="Canais abertos",Rede TV HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5201
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida HD" tvg-logo="https://s8.postimg.cc/vfe3x66yd/1516324691_08c354cb70083b600155c5b2e315e559d7f01fac.jpg" group-title="Religiosos",Rede Vida HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5199
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD" tvg-logo="https://s8.postimg.cc/5wlrk75et/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.jpg" group-title="Canais abertos",SBT HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5196
+#EXTINF:-1 tvg-id="" tvg-name="SBT Nordeste HD" tvg-logo="https://s8.postimg.cc/5wlrk75et/1516324981_94cd7b9d468fcbf02426a848f39cbf5ec5938b34.jpg" group-title="Canais abertos",SBT Nordeste HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5194
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony HD" tvg-logo="https://s8.postimg.cc/kskarrlyd/1516325290_f4c6c1dbad3b599cf79b81d46858dc50ed08cfc8.jpg" group-title="Filmes e Series",Sony HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5191
+#EXTINF:-1 tvg-id="Space HD" tvg-name="Space HD" tvg-logo="https://s8.postimg.cc/g6o6jesph/1516325405_d2eac5d3e27f371e6d37a7a5ffe1067df0ad4309.jpg" group-title="Filmes e Series",Space HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5188
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="SporTV 2 HD" tvg-logo="https://s8.postimg.cc/7oeqf3h1x/1516325624_37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.jpg" group-title="Esportes",SporTV 2 HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5184
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 HD" tvg-logo="https://s8.postimg.cc/j0rbww56d/1516325799_6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.jpg" group-title="Esportes",SporTV 3 HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5182
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal HD" tvg-logo="https://s8.postimg.cc/ym8nguoud/1516325912_5b84ceaa9a5a2872fb6d4b2b8d6d5c318c221277.jpg" group-title="Filmes e Series",Studio Universal HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5177
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy HD" tvg-logo="http://media.idownloadblog.com/wp-content/uploads/2013/08/syfy-icon.png" group-title="Filmes e Series",SyFy HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5174
+#EXTINF:-1 tvg-id="" tvg-name="TBS HD" tvg-logo="https://s7.postimg.cc/u1idv5trv/1516360523_39401f3fecceb9ab2cbd9a97fb72402523fb0825.jpg" group-title="Variedades",TBS HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/1502
+#EXTINF:-1 tvg-id="TCM - Turner Classic Movies" tvg-name="TCM HD" tvg-logo="https://s8.postimg.cc/6yvy2t13p/1516361623_fad62047e94f5297e9ef74bf5c71ca29b66597f0.jpg" group-title="Filmes e Series",TCM HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5171
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action HD" tvg-logo="https://s8.postimg.cc/inzxqqhrp/1516360836_34e97214a21d80f45b12171e5e28ecde28afbaf3.jpg" group-title="Canais Telecine",Telecine Action HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5168
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult HD" tvg-logo="https://s8.postimg.cc/aihvsl18l/1516360963_3650ca65bf2d7dfd81b84e1d0490bbfec6102ea1.jpg" group-title="Canais Telecine",Telecine Cult HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5165
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun HD" tvg-logo="https://s8.postimg.cc/3s1ej5tid/1516361211_233589ebc98bb0fc54278e2a1cc626e1dda51a2a.jpg" group-title="Canais Telecine",Telecine Fun HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5162
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca HD" tvg-logo="https://s8.postimg.cc/5wlrk8nf9/1516361300_46a9179784e301633ee84c04dcf0e707f362e096.jpg" group-title="Canais Telecine",Telecine Pipoca HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5159
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium HD" tvg-logo="https://s8.postimg.cc/ftwsdbagl/1516361393_00dbf22b51a4de3512bd744ef42116ffd04eb5d9.jpg" group-title="Canais Telecine",Telecine Premium HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5157
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch HD" tvg-logo="https://s8.postimg.cc/4hk6vj9hh/1516361487_90fe88aa0de57cd024250a92af9ab73cc3747ee0.jpg" group-title="Canais Telecine",Telecine Touch HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5154
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC HD" tvg-logo="https://s8.postimg.cc/6m4jwn5z9/1516362021_079595e05abe40b1ab17cccb6caa9a1148f35e41.jpg" group-title="Variedades",TLC HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5151
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT HD" tvg-logo="https://s8.postimg.cc/w4ww9nx91/1516362096_b118548d389431cc50d80da692ee4861553c9b35.jpg" group-title="Filmes e Series",TNT HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5149
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series HD" tvg-logo="https://imagenes.cablevisionfibertel.com.ar:7007/servlet/cv/2999.png" group-title="Filmes e Series",TNT Series HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/11425
+#EXTINF:-1 tvg-id="Tooncast" tvg-name="Tooncast HD" tvg-logo="https://s8.postimg.cc/5wlrkasl1/1516362285_6fdf477e3e280d8326fbf2b1231cec180617462d.jpg" group-title="Infantis",Tooncast HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5146
+#EXTINF:-1 tvg-id="" tvg-name="TV Aparecida HD" tvg-logo="https://s8.postimg.cc/43iuvu9xh/1516239036_4f0ade344b23843f3badcd200ce13d1c6b8cc8aa.jpg" group-title="Religiosos",TV Aparecida HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5143
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE 1  HD" tvg-logo="" group-title="Filmes e Series",TV CINE 1  HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/9774
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE 2  HD" tvg-logo="" group-title="Filmes e Series",TV CINE 2  HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/9773
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE 3 HD" tvg-logo="" group-title="Filmes e Series",TV CINE 3 HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/9772
+#EXTINF:-1 tvg-id="" tvg-name="TV CINE 4 HD" tvg-logo="" group-title="Filmes e Series",TV CINE 4 HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/9771
+#EXTINF:-1 tvg-id="TV Cultura" tvg-name="TV Cultura HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/200px-Cultura_logo_2013.svg.png" group-title="Canais abertos",TV Cultura HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5140
+#EXTINF:-1 tvg-id="" tvg-name="TV Ra Tim Bum HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/TV_R%C3%A1-Tim-Bum.png" group-title="Infantis",TV Ra Tim Bum HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/12037
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel HD" tvg-logo="https://s8.postimg.cc/nnxdy8kp1/1516364208_c170f20fb41b828eaba2cf07cd91f12e7929575c.jpg" group-title="Filmes e Series",Universal Channel HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5135
+#EXTINF:-1 tvg-id="Viva" tvg-name="VIVA HD" tvg-logo="https://s8.postimg.cc/yar73ofzp/1516364422_81b2fc789f43d1b600b4406ad018f0876f508b0c.jpg" group-title="Variedades",VIVA HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5131
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel HD" tvg-logo="https://s8.postimg.cc/xxzsxi5fp/1516364542_ff6d2a4bbbd056c43cf668d2bf40fde0f6286e35.jpg" group-title="Filmes e Series",Warner Channel HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5129
+#EXTINF:-1 tvg-id="Woohoo" tvg-name="Woohoo HD" tvg-logo="https://s8.postimg.cc/v3wnk2az9/1516364678_b3bf53791e3d9d09f55edae7e59d5c3c078f362b.jpg" group-title="Esportes",Woohoo HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5127
+#EXTINF:-1 tvg-id="" tvg-name="Gloobinho HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/GloobinhoLogo.png/250px-GloobinhoLogo.png" group-title="Infantis",Gloobinho HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/21004
+#EXTINF:-1 tvg-id="Band Rede" tvg-name="Band HD" tvg-logo="https://i.postimg.cc/dVZmVGvx/1516239409-b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="Canais abertos",Band HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23347
+#EXTINF:-1 tvg-id="" tvg-name="Dog TV HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/418HURWuYgL.png" group-title="Variedades",Dog TV HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23345
+#EXTINF:-1 tvg-id="" tvg-name="Globo ES HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo ES HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23342
+#EXTINF:-1 tvg-id="ID: Investigação Discovery HD" tvg-name="ID: Investigação Discovery HD" tvg-logo="https://s8.postimg.cc/inzxqh9z9/1516312022_03171a5cdcab670b9e232a9ce39bb98fb5c562a8.jpg" group-title="Documentarios",ID: Investigação Discovery HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5982
+#EXTINF:-1 tvg-id="" tvg-name="TV Pampa RS HD" tvg-logo="http://i.imgur.com/yUW5BKa.jpg" group-title="Canais abertos",TV Pampa RS HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23363
+#EXTINF:-1 tvg-id="" tvg-name="TV Vitoria ES HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/8/81/Logotipo_da_TV_Vit%C3%B3ria.png/200px-Logotipo_da_TV_Vit%C3%B3ria.png" group-title="Canais abertos",TV Vitoria ES HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23364
+#EXTINF:-1 tvg-id="Vh1 HD" tvg-name="VH1 HD" tvg-logo="https://s8.postimg.cc/s9ti6llnp/1516364336_b7d6ed1c59fe84cb13b82893eb0503161eea186a.jpg" group-title="Musica",VH1 HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5133
+#EXTINF:-1 tvg-id="" tvg-name="VH1 Mega Hits HD" tvg-logo="https://pbs.twimg.com/profile_images/537021079726731265/W4232YK7_400x400.png" group-title="Musica",VH1 Mega Hits HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/12036
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-name="Esporte Interativo HD" tvg-logo="https://odia.ig.com.br/_midias/png/2018/08/09/700x470/1_19510665_10157445658718504_4719318051247690804_n-7612664.png" group-title="Esportes",Esporte Interativo HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23763
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo Plus 2 HD" tvg-logo="https://1.bp.blogspot.com/-QPNYODLr-YE/WRz5MEeeG2I/AAAAAAAA5lw/P-LnNV3MzAcZ6hWmEG56DAprhxH4C6RWQCLcB/s1600/images%252820%2529.jpeg" group-title="Esportes",Esporte Interativo Plus 2 HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23773
+#EXTINF:-1 tvg-id="" tvg-name="Esporte Interativo Plus HD" tvg-logo="https://1.bp.blogspot.com/-QPNYODLr-YE/WRz5MEeeG2I/AAAAAAAA5lw/P-LnNV3MzAcZ6hWmEG56DAprhxH4C6RWQCLcB/s1600/images%252820%2529.jpeg" group-title="Esportes",Esporte Interativo Plus HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23772
+#EXTINF:-1 tvg-id="AXN HD" tvg-name="AXN FULL (hd)*" tvg-logo="https://s8.postimg.cc/5ikfkjvl1/1516239217_221b3727109dedf11b31af301492faf24acd6261.jpg" group-title="Filmes e Series",AXN FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5442
+#EXTINF:-1 tvg-id="Cartoon Network HD" tvg-name="Cartoon Network FULL (hd)*" tvg-logo="https://s8.postimg.cc/bw9invl2d/1516240947_cc5a9bb51e655575d37271f7ae5e68702177a152.jpg" group-title="Infantis",Cartoon Network FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5417
+#EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate FULL (hd)*" tvg-logo="https://s8.postimg.cc/4ga923zxx/1516242013_90e9f2f32a088eaf9a40dbeb88887f9758e0506b.jpg" group-title="Esportes",Combate FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5405
+#EXTINF:-1 tvg-id="ESPN Brasil HD" tvg-name="ESPN Brasil FULL (hd)*" tvg-logo="https://s8.postimg.cc/5ikfkqqhx/1516306529_3124e1403d7ae1a9822115352d305b323ab0e3f3.jpg" group-title="Esportes",ESPN Brasil FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/12023
+#EXTINF:-1 tvg-id="" tvg-name="Food Network FULL (hd)*" tvg-logo="https://s8.postimg.cc/caaun0n11/1516307297_3f171c584b7df80d589aaed8af75066dba195303.jpg" group-title="Variedades",Food Network FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/12024
+#EXTINF:-1 tvg-id="Fox Sports HD" tvg-name="Fox Sports FULL (hd)*" tvg-logo="https://s8.postimg.cc/u0cj8336t/1516307827_47a370d229281c0970459096366ddbbe12357919.jpg" group-title="Esportes",Fox Sports FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5338
+#EXTINF:-1 tvg-id="FX HD" tvg-name="FX FULL (hd)*" tvg-logo="https://s8.postimg.cc/7oeqepbsl/1516308094_9b4156603dcb6ff24f1d22277f244b3eed9816db.jpg" group-title="Filmes e Series",FX FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5333
+#EXTINF:-1 tvg-id="Globo News HD" tvg-name="Globo News FULL (hd)*" tvg-logo="https://s8.postimg.cc/4hk6v3m7p/1516309117_7f7c1bfb444c2e2ce328bfb0a775a505c7698a86.jpg" group-title="Notícias",Globo News FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/12033
+#EXTINF:-1 tvg-id="HBO 2 HD" tvg-name="HBO 2 FULL (hd)*" tvg-logo="https://s8.postimg.cc/4ubl1dc85/1516311085_daf8e87ee066625b204c7ab0c72f4fd93495b3eb.jpg" group-title="Canais HBO",HBO 2 FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5284
+#EXTINF:-1 tvg-id="HBO Plus HD" tvg-name="HBO Plus FULL (hd)*" tvg-logo="https://s8.postimg.cc/9sz3fwvgl/1516311316_72fe3dc94524fffb92702a67f9780dd8d20ab761.jpg" group-title="Canais HBO",HBO Plus FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/11846
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature FULL (hd)*" tvg-logo="https://s8.postimg.cc/6m4jw9nv9/1516311574_cf89ef886267b71b946bc40c6c85bc5c9b2d2080.jpg" group-title="Canais HBO",HBO Signature FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/11845
+#EXTINF:-1 tvg-id="ID: Investigação Discovery HD" tvg-name="ID: Investigação Discovery FULL (hd)*" tvg-logo="https://s8.postimg.cc/inzxqh9z9/1516312022_03171a5cdcab670b9e232a9ce39bb98fb5c562a8.jpg" group-title="Documentarios",ID: Investigação Discovery FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/11847
+#EXTINF:-1 tvg-id="Lifetime HD" tvg-name="Lifetime FULL (hd)*" tvg-logo="https://s8.postimg.cc/rvs6761lx/1516312139_baa73a01080f36bc25efa3684c6f408f87efa9d5.jpg" group-title="Variedades",Lifetime FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/12026
+#EXTINF:-1 tvg-id="Multishow HD" tvg-name="Multishow FULL (hd)*" tvg-logo="https://s8.postimg.cc/upvbko185/1516312851_ba318e4b09d8586cfeac9ec76bc5816143edc3ef.jpg" group-title="Musica",Multishow FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5253
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-name="Nat Geo Wild FULL (hd)*" tvg-logo="https://s8.postimg.cc/mkd9mikp1/1516318948_9930a9b4d86cac9b03a91650951d47828388f718.jpg" group-title="Documentarios",Nat Geo Wild FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/11848
+#EXTINF:-1 tvg-id="" tvg-name="NatGeo Kids FULL (hd)*" tvg-logo="https://s8.postimg.cc/ym8ngo1n9/1516319142_de02e1b2a44cd3d481196e18916399ba38ea7654.jpg" group-title="Infantis",NatGeo Kids FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5249
+#EXTINF:-1 tvg-id="National Geographic" tvg-name="National Geographic FULL (hd)*" tvg-logo="https://s8.postimg.cc/s8jkdf4h1/1516319258_4582b925ef1ccaaeaf6fc165249d007d97d19e97.jpg" group-title="Documentarios",National Geographic FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5244
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 2 FULL (hd)*" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Canais Premiere",Premiere 2 FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/11854
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 3 FULL (hd)*" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Canais Premiere",Premiere 3 FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/11853
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 4 FULL (hd)*" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Canais Premiere",Premiere 4 FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/11852
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 5 FULL (hd)*" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Canais Premiere",Premiere 5 FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/11851
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 6 FULL (hd)*" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Canais Premiere",Premiere 6 FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/11850
+#EXTINF:-1 tvg-id="" tvg-name="Premiere 7 FULL (hd)*" tvg-logo="https://s8.postimg.cc/4ubl1jjzp/1516320977_d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Canais Premiere",Premiere 7 FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/11849
+#EXTINF:-1 tvg-id="Sony" tvg-name="Sony FULL (hd)*" tvg-logo="https://s8.postimg.cc/kskarrlyd/1516325290_f4c6c1dbad3b599cf79b81d46858dc50ed08cfc8.jpg" group-title="Filmes e Series",Sony FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5192
+#EXTINF:-1 tvg-id="Space HD" tvg-name="Space FULL (hd)*" tvg-logo="https://s8.postimg.cc/g6o6jesph/1516325405_d2eac5d3e27f371e6d37a7a5ffe1067df0ad4309.jpg" group-title="Filmes e Series",Space FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5189
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal FULL (hd)*" tvg-logo="https://s8.postimg.cc/ym8nguoud/1516325912_5b84ceaa9a5a2872fb6d4b2b8d6d5c318c221277.jpg" group-title="Filmes e Series",Studio Universal FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5178
+#EXTINF:-1 tvg-id="SyFy" tvg-name="SyFy FULL (hd)*" tvg-logo="http://media.idownloadblog.com/wp-content/uploads/2013/08/syfy-icon.png" group-title="Filmes e Series",SyFy FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5175
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS FULL (hd)*" tvg-logo="https://s8.postimg.cc/4ubl1ohgl/1516360523_39401f3fecceb9ab2cbd9a97fb72402523fb0825.jpg" group-title="Variedades",TBS FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/12028
+#EXTINF:-1 tvg-id="Telecine Action" tvg-name="Telecine Action FULL (hd)*" tvg-logo="https://s8.postimg.cc/inzxqqhrp/1516360836_34e97214a21d80f45b12171e5e28ecde28afbaf3.jpg" group-title="Canais Telecine",Telecine Action FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5169
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-name="Telecine Cult FULL (hd)*" tvg-logo="https://s8.postimg.cc/aihvsl18l/1516360963_3650ca65bf2d7dfd81b84e1d0490bbfec6102ea1.jpg" group-title="Canais Telecine",Telecine Cult FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5166
+#EXTINF:-1 tvg-id="Telecine Fun" tvg-name="Telecine Fun FULL (hd)*" tvg-logo="https://s8.postimg.cc/3s1ej5tid/1516361211_233589ebc98bb0fc54278e2a1cc626e1dda51a2a.jpg" group-title="Canais Telecine",Telecine Fun FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5163
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-name="Telecine Pipoca FULL (hd)*" tvg-logo="https://s8.postimg.cc/5wlrk8nf9/1516361300_46a9179784e301633ee84c04dcf0e707f362e096.jpg" group-title="Canais Telecine",Telecine Pipoca FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5160
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-name="Telecine Premium FULL (hd)*" tvg-logo="https://s8.postimg.cc/ftwsdbagl/1516361393_00dbf22b51a4de3512bd744ef42116ffd04eb5d9.jpg" group-title="Canais Telecine",Telecine Premium FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/12029
+#EXTINF:-1 tvg-id="Telecine Touch" tvg-name="Telecine Touch FULL (hd)*" tvg-logo="https://s8.postimg.cc/4hk6vj9hh/1516361487_90fe88aa0de57cd024250a92af9ab73cc3747ee0.jpg" group-title="Canais Telecine",Telecine Touch FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5155
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="Universal Channel FULL (hd)*" tvg-logo="https://s8.postimg.cc/nnxdy8kp1/1516364208_c170f20fb41b828eaba2cf07cd91f12e7929575c.jpg" group-title="Filmes e Series",Universal Channel FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/12030
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="Warner Channel FULL (hd)*" tvg-logo="https://s8.postimg.cc/xxzsxi5fp/1516364542_ff6d2a4bbbd056c43cf668d2bf40fde0f6286e35.jpg" group-title="Filmes e Series",Warner Channel FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/11843
+#EXTINF:-1 tvg-id="Globo Minas Gerais" tvg-name="Globo MG FULL (hd)*" tvg-logo="https://s8.postimg.cc/44ssoxjdh/1516308217_c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo MG FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5319
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO FULL (hd)*" tvg-logo="https://i.postimg.cc/GtJ3Q7k5/1516310963-93dd95b2bb0ed437164a949521c4c39a2315839d.jpg" group-title="Canais HBO",HBO FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/15436
+#EXTINF:-1 tvg-id="OFF HD" tvg-name="OFF FULL (hd)*" tvg-logo="https://i.postimg.cc/QxdZwdst/1516320116-de86d8a6b771725c17d78fa7e0cd82e16b83382d.jpg" group-title="Esportes",OFF FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/15434
+#EXTINF:-1 tvg-id="A&E HD" tvg-name="A&E FULL (hd)*" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/312LhQsVqtL._SY355_.png" group-title="Filmes e Series",A&E FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/18806
+#EXTINF:-1 tvg-id="Discovery Civilization HD" tvg-name="Discovery Civilization FULL (hd)*" tvg-logo="https://i.postimg.cc/TPGLvbPm/1516304318-ea0fabc96247cdacd9f0af7b22790b53bd2d48c6.jpg" group-title="Documentarios",Discovery Civilization FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/18808
+#EXTINF:-1 tvg-id="Discovery Science HD" tvg-name="Discovery Science FULL (hd)*" tvg-logo="https://i.postimg.cc/brGd9H6X/1516304750-47cba569fa26f81e49f4fdd8596bec9930f0f89e.jpg" group-title="Documentarios",Discovery Science FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/18809
+#EXTINF:-1 tvg-id="Discovery Theater HD" tvg-name="Discovery Theater FULL (hd)*" tvg-logo="https://i.postimg.cc/ZRsCNDxF/1516304897-f7974bfa3b9d050bd9fab2b1b3d768aecb457639.jpg" group-title="Documentarios",Discovery Theater FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/18805
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World FULL (hd)*" tvg-logo="https://i.postimg.cc/NfH5yD9m/1516305094-516d89d1f346643f27d856707cf1384a24455144.jpg" group-title="Documentarios",Discovery World FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/18804
+#EXTINF:-1 tvg-id="Fox" tvg-name="Fox FULL (hd)*" tvg-logo="https://i.postimg.cc/Dft1Y81Q/1516307423-7efd73b9872dd3181c2f5a3391b192a65ff7241b.jpg" group-title="Filmes e Series",Fox FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/18803
+#EXTINF:-1 tvg-id="History Channel HD" tvg-name="History Channel FULL (hd)*" tvg-logo="https://banner2.kisspng.com/20180419/btq/kisspng-history-television-channel-logo-h2-history-5ad836f7822628.4258454415241192875331.jpg" group-title="Documentarios",History Channel FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/18807
+#EXTINF:-1 tvg-id="Premiere Clubes" tvg-name="Premiere Clubes FULL (hd)*" tvg-logo="https://i.postimg.cc/FH2tYbSd/1516320977-d4811450c61627f889ac1012e74f430f0fc8a6ee.jpg" group-title="Canais Premiere",Premiere Clubes FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/18815
+#EXTINF:-1 tvg-id="SporTV 3" tvg-name="SporTV 3 FULL (hd)*" tvg-logo="https://i.postimg.cc/cJN9qFYm/1516325799-6c9c20301539587d987cf1d0a7ae9bdadeedc9a8.jpg" group-title="Esportes",SporTV 3 FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/18927
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV FULL (hd)*" tvg-logo="https://i.postimg.cc/Dy8Y1Jnq/1516325501-a57d469ee395de417336e66ec14dd41ddbf22918.jpg" group-title="Esportes",SporTV FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/18926
+#EXTINF:-1 tvg-id="Globo SP" tvg-name="Globo SP FULL (hd)*" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo SP FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/19215
+#EXTINF:-1 tvg-id="Fox Sports 2 HD" tvg-name="Fox Sports 2 FULL (hd)*" tvg-logo="https://i.postimg.cc/fL1SFrSW/1516307934-b476a94f3a9f4bdd0feb9b6086d5a273b5ad1c2e.jpg" group-title="Esportes",Fox Sports 2 FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/19408
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC FULL (hd)*" tvg-logo="https://i.postimg.cc/MGk0MXpK/1516238758-3dc4eee5c20558e96d3e5026ad519589b8814465.jpg" group-title="Filmes e Series",AMC FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22488
+#EXTINF:-1 tvg-id="Animal Planet HD" tvg-name="Animal Planet FULL (hd)*" tvg-logo="https://i.postimg.cc/wTGQzwKN/1516238874-eafb047f810465d4230f923dc6f1c08ea472d2e3.jpg" group-title="Documentarios",Animal Planet FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22483
+#EXTINF:-1 tvg-id="Bis HD" tvg-name="Bis FULL (hd)*" tvg-logo="https://i.postimg.cc/MKv191cp/1516239931-46636112ac8a0a27fde2334d461e7aba1b722c0f.jpg" group-title="Variedades",Bis FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22493
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax FULL (hd)*" tvg-logo="https://i.postimg.cc/fykSghRr/1516241687-223a375f300af8b0ce8a2e33f44e5c9836739a89.jpg" group-title="Filmes e Series",Cinemax FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22485
+#EXTINF:-1 tvg-id="Comedy Central HD" tvg-name="Comedy Central FULL (hd)*" tvg-logo="https://i.postimg.cc/vTjgJS1H/1516242192-68193e8bc51b466e1238666185410fccd0b8ee98.jpg" group-title="Variedades",Comedy Central FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22484
+#EXTINF:-1 tvg-id="Discovery Channel HD" tvg-name="Discovery Channel FULL (hd)*" tvg-logo="https://i.postimg.cc/bw1D5gqp/1516304181-46ab479ef1cad874e93ac87dfbcff6c83ed0c66d.jpg" group-title="Documentarios",Discovery Channel FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22487
+#EXTINF:-1 tvg-id="Disney Junior" tvg-name="Disney Junior FULL (hd)*" tvg-logo="https://i.postimg.cc/rw2z54xb/1516305311-fdef187c9b89d6286f9b2d369f725f621e412d8a.jpg" group-title="Infantis",Disney Junior FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22492
+#EXTINF:-1 tvg-id="H2 HD" tvg-name="H2 FULL (hd)*" tvg-logo="https://i.postimg.cc/YC20XHDf/1516310848-ac7953a38cf6398672f6c2031610db28de2bd4be.jpg" group-title="Documentarios",H2 FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22482
+#EXTINF:-1 tvg-id="Max Prime" tvg-name="Max Prime FULL (hd)*" tvg-logo="https://i.postimg.cc/3wsKH51q/1516312436-f3ba7da2150f909f2095a7bc644194a7420ab483.jpg" group-title="Filmes e Series",Max Prime FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22480
+#EXTINF:-1 tvg-id="Megapix HD" tvg-name="Megapix FULL (hd)*" tvg-logo="https://i.postimg.cc/pVYP3SF0/1516312673-6d1d76a391dc330a0250a95fb873c7313c9eacf2.jpg" group-title="Filmes e Series",Megapix FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22490
+#EXTINF:-1 tvg-id="Nick Jr." tvg-name="Nick JR FULL (hd)*" tvg-logo="https://i.postimg.cc/7hm8hp1w/1516319773-c9501087eef0b5c1e5ebe74be3a54d255638e660.jpg" group-title="Infantis",Nick JR FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22486
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="Paramount FULL (hd)*" tvg-logo="https://i.postimg.cc/nL7yBsKd/1516320245-1bb5f2856804bc053a3adbc77a3744d87fd477cf.jpg" group-title="Filmes e Series",Paramount FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22479
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT Full (hd)*" tvg-logo="https://i.postimg.cc/yxJX3Rcx/1516362096-b118548d389431cc50d80da692ee4861553c9b35.jpg" group-title="Filmes e Series",TNT Full (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22477
+#EXTINF:-1 tvg-id="TNT Séries" tvg-name="TNT Séries FULL (hd)*" tvg-logo="https://i.postimg.cc/2yPdQ57w/1516362193-e8ec6624a7201b93a9fd10aefa96116bf612de69.jpg" group-title="Filmes e Series",TNT Séries FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/22478
+#EXTINF:-1 tvg-id="Band Rede" tvg-name="Band FULL (hd)*" tvg-logo="https://i.postimg.cc/dVZmVGvx/1516239409-b03ea8a6df6dcf3c4a72ba5cd30d11544c78e7bc.jpg" group-title="Canais abertos",Band FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23350
+#EXTINF:-1 tvg-id="" tvg-name="ESPN Extra FULL (hd)*" tvg-logo="https://i.postimg.cc/d3TtyQ1w/1516306636-b946767d882ebffa31375652a2cc3921182e335c.jpg" group-title="Esportes",ESPN Extra FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23351
+#EXTINF:-1 tvg-id="Fox Life HD" tvg-name="Fox Life FULL (hd)*" tvg-logo="https://i.postimg.cc/jdPyVthp/1516307532-1480374d0207eff2609baebc726b8d3dc9614b6f.jpg" group-title="Variedades",Fox Life FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23349
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium 2 FULL (hd)*" tvg-logo="https://i.postimg.cc/MpYRT5Nt/1516307739-4de824502ee2ab7fc740f3d8e959b278a68e2be4.jpg" group-title="Filmes e Series",Fox Premium 2 FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23348
+#EXTINF:-1 tvg-id="" tvg-name="Globo Gazeta Sul FULL (hd)*" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo Gazeta Sul FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23343
+#EXTINF:-1 tvg-id="" tvg-name="Globo RJ FULL (hd)*" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Canais abertos",Globo RJ FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23344
+#EXTINF:-1 tvg-id="Boomerang HD" tvg-name="Boomerang FULL (hd)*" tvg-logo="https://i.postimg.cc/7Ly7PcK5/1516240205-efe708c81a67c52de7219a580dae5821fab9c1de.jpg" group-title="Infantis",Boomerang FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23595
+#EXTINF:-1 tvg-id="Discovery Kids HD" tvg-name="Discovery Kids FULL (hd)*" tvg-logo="https://i.postimg.cc/HnfnZcKr/1516304644-edc471400f6172057f74d5b6d92bd16114264a99.jpg" group-title="Infantis",Discovery Kids FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23596
+#EXTINF:-1 tvg-id="Gloob" tvg-name="Gloob FULL (hd)*" tvg-logo="https://i.postimg.cc/zvnvQX1p/1516310467-7a394923dae733aea5c2d0f07bf671299a77875e.jpg" group-title="Infantis",Gloob FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23597
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon FULL (hd)*" tvg-logo="https://i.postimg.cc/kGnPnnbT/1516319666-1d30fe30c3a44aa9e392a724eca183ff165abaa7.jpg" group-title="Infantis",Nickelodeon FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23594
+#EXTINF:-1 tvg-id="" tvg-name="Play Kids FULL (hd)*" tvg-logo="http://bravi.tv/wp-content/uploads/2016/12/Playkids.png" group-title="Infantis",Play Kids FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23367
+#EXTINF:-1 tvg-id="SporTV 2" tvg-name="Sportv 2 FULL (hd)*" tvg-logo="https://i.postimg.cc/X7m1LjYt/1516325624-37a7dacc74e5ee85edf0c0c2074a56e4bb894bca.jpg" group-title="Esportes",Sportv 2 FULL (hd)*
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23789
+#EXTINF:-1 tvg-id="Globo News" tvg-name="Globo News" tvg-logo="https://s8.postimg.cc/4hk6v3m7p/1516309117_7f7c1bfb444c2e2ce328bfb0a775a505c7698a86.jpg" group-title="Notícias",Globo News
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5317
+#EXTINF:-1 tvg-id="Rede Vida" tvg-name="Rede Vida HD" tvg-logo="https://s8.postimg.cc/vfe3x66yd/1516324691_08c354cb70083b600155c5b2e315e559d7f01fac.jpg" group-title="Religiosos",Rede Vida HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5199
+#EXTINF:-1 tvg-id="Record News" tvg-name="Record News HD" tvg-logo="https://s8.postimg.cc/4hk6vfelh/1516324071_28ffcd4f79fc9a354305060278b4f675ccdcd601.jpg" group-title="Notícias",Record News HD
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5207
+#EXTINF:-1 tvg-id="" tvg-name="Adult 4K: VOD2" tvg-logo="" group-title="Adultos +18",Adult 4K: VOD2
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/3221
+#EXTINF:-1 tvg-id="" tvg-name="Adult 4K: VOD4" tvg-logo="" group-title="Adultos +18",Adult 4K: VOD4
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/3219
+#EXTINF:-1 tvg-id="" tvg-name="Adult 4K: VOD5" tvg-logo="" group-title="Adultos +18",Adult 4K: VOD5
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/3218
+#EXTINF:-1 tvg-id="" tvg-name="Adult 4K: VOD8" tvg-logo="" group-title="Adultos +18",Adult 4K: VOD8
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/3215
+#EXTINF:-1 tvg-id="" tvg-name="Adult 4K: VOD9" tvg-logo="" group-title="Adultos +18",Adult 4K: VOD9
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/3214
+#EXTINF:-1 tvg-id="" tvg-name="SEXY HOT" tvg-logo="https://www.google.com.br/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiU0NviyuXbAhWCkpAKHc5dBAAQjRx6BAgBEAU&url=http%3A%2F%2Fpropmark.com.br%2Fmidia%2Fsexy-hot-lanca-plataforma-digital&psig=AOvVaw0BN2Lhy9XXKnDJsM80myx1&ust=1529698941497220" group-title="Adultos +18",SEXY HOT
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/4051
+#EXTINF:-1 tvg-id="" tvg-name="VENUS XXX" tvg-logo="http://www.sex-paradise-book.com/wp-content/uploads/2018/03/18.png" group-title="Adultos +18",VENUS XXX
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5124
+#EXTINF:-1 tvg-id="" tvg-name="Adult 4K: VOD3" tvg-logo="" group-title="Adultos +18",Adult 4K: VOD3
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/3220
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 17" tvg-logo="" group-title="Adultos +18",XXX-Babes 17
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/3206
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 18" tvg-logo="" group-title="Adultos +18",XXX-Babes 18
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/3205
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 19" tvg-logo="" group-title="Adultos +18",XXX-Babes 19
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/3204
+#EXTINF:-1 tvg-id="" tvg-name="XXX-Babes 20" tvg-logo="" group-title="Adultos +18",XXX-Babes 20
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/3202
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV" tvg-logo="http://www.sex-paradise-book.com/wp-content/uploads/2018/03/18.png" group-title="Adultos +18",PLAYBOY TV
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5117
+#EXTINF:-1 tvg-id="" tvg-name="SEXTREME" tvg-logo="http://www.sex-paradise-book.com/wp-content/uploads/2018/03/18.png" group-title="Adultos +18",SEXTREME
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/5116
+#EXTINF:-1 tvg-id="" tvg-name="Adult 4K: VOD7" tvg-logo="" group-title="Adultos +18",Adult 4K: VOD7
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/3216
+#EXTINF:-1 tvg-id="" tvg-name="Adult 4K: VOD6" tvg-logo="" group-title="Adultos +18",Adult 4K: VOD6
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/3217
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO 1" tvg-logo="" group-title="Adultos +18",ADULTO 1
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/13160
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO 2" tvg-logo="" group-title="Adultos +18",ADULTO 2
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/13159
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO 3" tvg-logo="" group-title="Adultos +18",ADULTO 3
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/13158
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO 4" tvg-logo="" group-title="Adultos +18",ADULTO 4
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/13157
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO 5" tvg-logo="" group-title="Adultos +18",ADULTO 5
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/13155
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO 6" tvg-logo="" group-title="Adultos +18",ADULTO 6
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/13154
+#EXTINF:-1 tvg-id="" tvg-name="ADULTO 8" tvg-logo="" group-title="Adultos +18",ADULTO 8
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/13153
+#EXTINF:-1 tvg-id="" tvg-name="Especiais Adultos 1" tvg-logo="" group-title="Adultos +18",Especiais Adultos 1
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23759
+#EXTINF:-1 tvg-id="" tvg-name="Especiais Adultos 2" tvg-logo="" group-title="Adultos +18",Especiais Adultos 2
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23760
+#EXTINF:-1 tvg-id="" tvg-name="Especiais Adultos 3" tvg-logo="" group-title="Adultos +18",Especiais Adultos 3
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23761
+#EXTINF:-1 tvg-id="" tvg-name="Especiais Adultos 4" tvg-logo="" group-title="Adultos +18",Especiais Adultos 4
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23762
+#EXTINF:-1 tvg-id="" tvg-name="Especiais Adultos 5" tvg-logo="" group-title="Adultos +18",Especiais Adultos 5
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23768
+#EXTINF:-1 tvg-id="" tvg-name="Especiais Adultos 6" tvg-logo="" group-title="Adultos +18",Especiais Adultos 6
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23776
+#EXTINF:-1 tvg-id="" tvg-name="Especiais Adultos 7" tvg-logo="" group-title="Adultos +18",Especiais Adultos 7
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23777
+#EXTINF:-1 tvg-id="" tvg-name="Especiais Adultos 8" tvg-logo="" group-title="Adultos +18",Especiais Adultos 8
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23778
+#EXTINF:-1 tvg-id="" tvg-name="Especiais Adultos 9" tvg-logo="" group-title="Adultos +18",Especiais Adultos 9
+http://graniptv.com:8080/DiogoHenrique/diogosilva@diogosilva/23786
